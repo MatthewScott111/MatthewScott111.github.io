@@ -24,13 +24,12 @@ repository               : "matthewscott111.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr Matthew Scott"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Legal dimensions of environmental displacement"
+  employer         : "Raoul Wallenberg Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "matthew.scott@rwi.lu.se" 
 
   # Academic websites
   academia         : # URL
