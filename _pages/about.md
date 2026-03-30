@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Legal approaches to environmental displacement"
+title: "Legal dimensions of environmental displacement"
 author_profile: true
 redirect_from: 
   - /about/
